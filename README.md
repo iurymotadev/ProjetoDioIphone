@@ -1,4 +1,4 @@
 # ProjetoDioIphone
 
-## Diagrama de Classes
+Diagrama de Classes
 ![plot](./diagrama_classes_iphone.png)
